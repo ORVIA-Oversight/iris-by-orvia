@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://iris.example/</loc></url>
+  <url><loc>https://iris.example/how-it-works/</loc></url>
+  <url><loc>https://iris.example/workforce/</loc></url>
+  <url><loc>https://iris.example/integrations/</loc></url>
+  <url><loc>https://iris.example/business/</loc></url>
+  <url><loc>https://iris.example/business-in-a-box/</loc></url>
+  <url><loc>https://iris.example/security/</loc></url>
+  <url><loc>https://iris.example/pricing/</loc></url>
+  <url><loc>https://iris.example/about/</loc></url>
+  <url><loc>https://iris.example/contact/</loc></url>
+  <url><loc>https://iris.example/login/</loc></url>
+  <url><loc>https://iris.example/status/</loc></url>
+  <url><loc>https://iris.example/updates/</loc></url>
+  <url><loc>https://iris.example/developers/</loc></url>
+</urlset>
